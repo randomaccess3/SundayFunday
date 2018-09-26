@@ -1,0 +1,5 @@
+Regripper plugin to parse SOFTWARE hive for EditFlags
+
+To do:
+* Testing, it's largely untested
+* Parse data from hex values in EditFlags key
